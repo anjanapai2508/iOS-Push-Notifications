@@ -8,4 +8,4 @@ Folder named ServerJavaCode contains the java class to send notifications to you
 
 Run this code as a java application and you should see a push notification delivered to your device in a couple seconds.
 
-Complete installation with snapshots is given at 
+Please see detailed installation guide at https://medium.com/@anjana.pai.rathod/how-to-send-push-notifications-to-ios-using-phonegap-or-cordova-and-java-8ebf95ccdd9e#.ogp8o4cid
