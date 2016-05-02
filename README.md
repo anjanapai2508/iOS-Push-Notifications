@@ -8,4 +8,7 @@ Folder named ServerJavaCode contains the java class to send notifications to you
 
 Run this code as a java application and you should see a push notification delivered to your device in a couple seconds.
 
+<<<<<<< HEAD
 Please see detailed installation guide here. 
+=======
+>>>>>>> origin/master
